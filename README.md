@@ -9,4 +9,4 @@ https://github.com/user-attachments/assets/ff640020-f974-4e1b-991f-01f3c97ba157
 
 ## My Github Stats
 
-<img src="https://raw.githubusercontent.com/bokub/github-stats-box" alt="github stats">
+<img src="https://raw.githubusercontent.com/berdiabekauri14/github-stats-box" alt="github stats">
