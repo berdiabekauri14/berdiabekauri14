@@ -1,4 +1,4 @@
-<center>![portfolio image for github](https://github.com/user-attachments/assets/70de5dd0-baee-43a2-864b-11f69b3af4bb)</center>
+![portfolio image for github](https://github.com/user-attachments/assets/70de5dd0-baee-43a2-864b-11f69b3af4bb)
 
 ## Hi there my name is <b>Berdia bekauri</b> 👋
 # Nice to meet You!
