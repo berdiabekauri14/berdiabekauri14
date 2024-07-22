@@ -1,6 +1,6 @@
 ![portfolio image for github](https://github.com/user-attachments/assets/70de5dd0-baee-43a2-864b-11f69b3af4bb)
 
-## Hi there my name is <b>Berdia bekauri</b> 👋
+## Hi there my name is ***Berdia bekauri*** 👋
 # Nice to meet You!
 
 My name is Berdia bekauri, i am from georgia, i study programming at Goal oriented academy wich is the worlds best academy for programming
