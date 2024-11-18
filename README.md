@@ -6,7 +6,9 @@
 <p>My name is berdia bekauri, I am from georgia, I study at goal oriented academy wich is the best academy in the world🌍</p>
 <br />
 <h1>Introducing <b><i>Berdia's crew!</i></b>✅</h1>
-<img src="![crew](https://github.com/user-attachments/assets/f86dc0d9-ea75-4efe-8cc6-78cac047142e)" alt="crew" />
+<br />
+![crew](https://github.com/user-attachments/assets/f86dc0d9-ea75-4efe-8cc6-78cac047142e)
+<br />
 <p>Berdia's crew is the best crew to learn programming</p>
 <br />
 https://github.com/user-attachments/assets/ff640020-f974-4e1b-991f-01f3c97ba157
