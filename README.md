@@ -7,7 +7,7 @@
 <br />
 <h1>Introducing <b><i>Berdia's crew!</i></b>✅</h1>
 <br />
-<img src="![crew](https://github.com/user-attachments/assets/f86dc0d9-ea75-4efe-8cc6-78cac047142e)" />
+![crew](https://github.com/user-attachments/assets/8288168c-6715-4012-a390-92e4e4d0a927)
 <br />
 <p>Berdia's crew is the best crew to learn programming</p>
 <br />
