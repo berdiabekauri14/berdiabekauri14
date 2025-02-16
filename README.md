@@ -7,7 +7,9 @@
 <br />
 <h1>Introducing <b><i>Berdia's crew!</i></b>✅</h1>
 <br />
-![crew](https://github.com/user-attachments/assets/8288168c-6715-4012-a390-92e4e4d0a927)
+![Berdia empire](https://github.com/user-attachments/assets/b94da9e3-2b6b-49cf-b56e-31ef668ab20c)
+![berdia empire mini leader](https://github.com/user-attachments/assets/e68351f1-cfc1-41f0-88a0-4876a4958baf)
+![berdia bekauri empire descants](https://github.com/user-attachments/assets/7c5a7041-8f3f-460a-a4dd-044297339040)
 <br />
 <p>Berdia's crew is the best crew to learn programming</p>
 <br />
